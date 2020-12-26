@@ -5,3 +5,4 @@ Description of the files available:
 
 1. **dda.py:** Python implementation of DDA line drawing algorithm.
 2. **bresenham.py:** Python implementation of Bresenham's line drawing algorithm.
+3. **midpoint_circle.py:** Python implementation of Midpoint circle drawing algorithm.
