@@ -30,4 +30,5 @@ def DDA(x1, y1, x2, y2):
   plt.title("DDA Line from ("+str(x_point[0])+", "+str(y_point[0])+") to ("+str(x_point[-1])+", "+str(y_point[-1])+")")
   plt.xlabel("x-axis")
   plt.ylabel("y-axis")
+  plt.show()
 DDA(20, 18, 30, 10)
